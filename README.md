@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Adam. I am a software developer interested in Java, web development and AI-assisted coding.
+
 <!--
 **GreatDeveloper66/GreatDeveloper66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
