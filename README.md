@@ -3,6 +3,8 @@
 My name is Adam. I am a software developer interested in Java, web development and AI-assisted coding.
 
 - 🔭 I’m currently working on two main projects: a VS code extension that use AI agents to analyze codebases to help in updating, building and debugging; and a full stack meal planning app.
+- - 🌱 I’m currently learning security +, agentic AI and COBOL.
+ - ⚡ Fun fact: I am a former certified yoga instructor.
 <!--
 **GreatDeveloper66/GreatDeveloper66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
