@@ -12,7 +12,7 @@ My name is Adam. I'm a US Navy veteran turned software developer with a backgrou
 
 ---
 
-<img src="images/repo-blueprint-small-logo.png" width="200" alt="Repo Blueprint Logo">
+<img src="images/repo-blueprint.png" width="200" alt="Repo Blueprint Logo">
 
 ## 🧩 repo-blueprint
 
