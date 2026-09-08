@@ -25,6 +25,8 @@ repo-blueprint is a VS Code extension that gives developers an instant, structur
 
 ---
 
+<img src="images/kitchenwise-logo.png" width="200" alt="KitchenWise logo">
+
 ### 🍳 KitchenWise
 
 KitchenWise is a modular, service-oriented application that takes the friction out of deciding what to eat. It generates personalized meal plans through the OpenAI API, tailors them to a user's dietary profile, and connects the resulting recipes to real grocery inventory nearby through the Google Places API. The goal isn't just another recipe generator. It's a system that understands what you can actually buy and cook this week.
