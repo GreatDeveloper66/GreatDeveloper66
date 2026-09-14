@@ -11,6 +11,7 @@ My name is Adam. I'm a US Navy veteran turned software developer with a backgrou
 - ⚡ Fun fact: I am a former certified yoga instructor
 
 ---
+One flag: your VS Code extension's publish name on the Marketplace is controlled s
 
 <img src="images/repo-blueprint.png" width="200" alt="Repo Blueprint Logo">
 
@@ -23,7 +24,7 @@ repo-blueprint is a VS Code extension that gives developers an instant, structur
 **Explore the repo:**
 
 - [`repo-blueprint`](https://github.com/GreatDeveloper66/repo-blueprint) — extension source, published to the VS Code Marketplace
-- [`codereviewagent`](https://github.com/GreatDeveloper66/codereviewagent) — AI-assisted backend supporting repo-blueprint's codebase analysis
+- [`repo-blueprint-analysis-service`](https://github.com/GreatDeveloper66/repo-blueprint-analysis-service) — AI-assisted backend supporting repo-blueprint's codebase analysis
 
 ---
 
@@ -44,12 +45,12 @@ KitchenWise is a modular, service-oriented application that takes the friction o
 
 **Explore the repos:**
 
-- [`ai-meal-planner-backend`](https://github.com/GreatDeveloper66/ai-meal-planner-backend) — AI-driven meal plan generation
+- [`kitchenwise-meal-plan-service`](https://github.com/GreatDeveloper66/kitchenwise-meal-plan-service) — AI-driven meal plan generation
 - [`user-auth-service`](https://github.com/GreatDeveloper66/user-auth-service) — authentication and authorization
-- [`meal-plan-diet-profile-service`](https://github.com/GreatDeveloper66/meal-plan-diet-profile-service) — dietary profile storage
-- [`meal-plan-grocery-service`](https://github.com/GreatDeveloper66/meal-plan-grocery-service) — grocery store discovery by location
-- [`meal-recipe-service`](https://github.com/GreatDeveloper66/meal-recipe-service) — recipe generation and storage
-- [`meal-plan-profile-service`](https://github.com/GreatDeveloper66/meal-plan-profile-service) — user meal plan storage
+- [`kitchenwise-diet-profile-service`](https://github.com/GreatDeveloper66/kitchenwise-diet-profile-service) — dietary profile storage
+- [`kitchenwise-grocery-service`](https://github.com/GreatDeveloper66/kitchenwise-grocery-service) — grocery store discovery by location
+- [`kitchenwise-recipe-service`](https://github.com/GreatDeveloper66/kitchenwise-recipe-service) — recipe generation and storage
+- [`kitchenwise-plan-storage-service`](https://github.com/GreatDeveloper66/kitchenwise-plan-storage-service) — user meal plan storage
 
 ---
 
