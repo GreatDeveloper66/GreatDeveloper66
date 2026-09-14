@@ -18,7 +18,7 @@ My name is Adam. I'm a US Navy veteran turned software developer with a backgrou
 
 repo-blueprint is a VS Code extension that gives developers an instant, structured look at their codebase. Today, it reports total lines, lines of code, blank lines, function counts, and import counts right in a metrics panel, no context switching required, across JavaScript, TypeScript, Java, and Python. I'm actively extending it toward AI-assisted codebase analysis: using agents to help identify what needs updating, flag potential issues before they become bugs, and support debugging directly from the metrics it already surfaces.
 
-**Tech stack:** `TypeScript` · `Webpack` · `VS Code Extension API`
+**Tech stack:** `Java` `Springboot` `TypeScript` · `Webpack` · `VS Code Extension API`
 
 **Explore the repo:**
 
